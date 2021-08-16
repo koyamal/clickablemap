@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request
+from flask import Flask, render_template
 
 app = Flask(__name__)
 app.secret_key = 'adfba2efkajd2fjlir37aerwe'
